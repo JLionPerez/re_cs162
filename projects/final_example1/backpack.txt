@@ -1,4 +1,0 @@
-|  Backpack      |Time Left
-|  Key-          |     Min:
-|                |     Sec:
-|________________|   
